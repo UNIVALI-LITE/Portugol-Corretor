@@ -1,0 +1,4 @@
+rootProject.name = 'Portugol-Corretor'
+
+//include 'portugol-core'
+//project(':portugol-core').projectDir = new File("../Portugol-Studio/core")
